@@ -20,7 +20,7 @@ while(entrada != "ESC" ){
             alert("Viva mexico cabrones!!");
             break;
        default:
-           alert("where did you visit us from?")
+           alert("where are you visiting us from?")
            break;
    }
    entrada = prompt("where are you from?");
